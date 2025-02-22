@@ -16,8 +16,9 @@ pip install networkx matplotlib numpy scipy
 
 ## How to Run Code: 
 Run the script in ther terminal with: 
-[!TIP] 
-> Close the graph once done revising it to open a new graph. 
+
 '''bash
 python ./graph_analysis.py graph_file.gml --components n --plot [C|N|P] --verify_homophily --verify_balanced_graph --output out_graph_file.gml
 '''
+[!TIP] 
+> Close the graph once done revising it to open a new graph. 
