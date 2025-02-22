@@ -10,7 +10,7 @@ This assignment analyzes graphs stored in Graph Modeling Language (GML) format a
 ## Requirements: 
 
 install required libraries using: 
- ```sh 
+ ```bash
 pip install networkx matplotlib numpy scipy
  ```
 
